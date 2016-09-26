@@ -6,23 +6,21 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Wendell Adriel
-author-title: Full Stack Developer
+author: Paulo Quicoli
+author-title: Software Developer/Software Architect
 gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
-twitter: wendell_adriel
-github: WendellAdriel
-googleplus: +WendellAdriel
-facebook: wendell.adriel.7
-linkedin: wendelladrielti/en
-bio: "Brazilian developer. Game, music and technology lover.
-      I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
-      exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
-      Mobile Development since 2015 as Freelancer and in some Brazilian companies too.
-      I'm the creator of CodeShare, a free portal with articles, videos, etc, about Software Development. The purpose of this project is to help people who want
-      to learn about Software Development and start their careers in IT area and to help people that already work with Software Development to improve their
-      technical knowledge to get better job opportunities.
-      I like to work with both: Front-End and Back-End development. I work with many languages, frameworks and technologies."
+email: pauloquicoli@gmail.com
+twitter: pauloquicoli
+github: quicoli
+googleplus: +PauloQuicoli
+facebook: Paulo Quicoli
+linkedin: pauloquicoli/en
+bio: "Fast-learner, adaptable, motivated, committed and customer-oriented software developer with 15 years of experience in 
+software analysis, architecture design, development and customer support. 
+With an open-minded and sincere attitude, I am a collaborative team player in search of giving my best.
+Post-graduated in Engineering and Software Architecture, graduated in Technology of Data Processing, 
+English language level advanced (IELTS 6.5), certified Scrum Master, 
+Lecturer in events: Embarcadero Conference and Firebird Developers Day"
 
 # Skills
 #
@@ -37,130 +35,130 @@ bio: "Brazilian developer. Game, music and technology lover.
 #
 # If you don't want one of the sections below, leave the variable without any values
 front-end:
-  - name: HTML 5
-    level: 4
-  - name: CSS 3
-    level: 4
-  - name: JavaScript
-    level: 4
-  - name: jQuery
-    level: 4
+  - name: Windows Presentation Foundation (WPF)
+    level:5
+  - name: ASP.NET MVC
+    level:4
+  - name:
+    level
+  - name:
+    level:
   - name: Angular
-    level: 4
-  - name: Vue.js
     level: 2
+  - name:
+    level:
   - name: Bootstrap
-    level: 4
+    level: 3
   - name: Materialize CSS
-    level: 5
-  - name: LESS
-    level: 3
-  - name: SASS
-    level: 3
-  - name: Stylus
-    level: 4
-  - name: Gulp
-    level: 4
-  - name: Grunt
-    level: 3
-  - name: Bower
-    level: 3
+    level: 2
+  - name: 
+    level:
+  - name:
+    level:
+  - name: 
+    level:
+  - name: 
+    level:
+  - name: 
+    level:
+  - name: 
+    level:
 
 back-end:
-  - name: PHP
-    level: 5
-  - name: Node.js
-    level: 3
-  - name: Ruby
-    level: 2
-  - name: Python
-    level: 2
-  - name: Java
+  - name: C#
     level: 4
-  - name: COBOL
-    level: 2
+  - name: Delphi
+    level: 4
+  - name:
+    level:
+  - name: 
+    level:
+  - name: 
+    level:
+  - name:
+    level:
   - name: SQL
     level: 4
-  - name: Lua
-    level: 2
+  - name: 
+    level:
 
 mobile:
-  - name: Android
-    level: 2
-  - name: Apache Cordova
-    level: 4
-  - name: Ionic
-    level: 4
-  - name: NativeScript
+  - name: Xamarin
     level: 3
+  - name: Apache Cordova
+    level: 3
+  - name: Ionic
+    level: 3
+  - name: 
+    level: 
 
 db:
   - name: MySQL
-    level: 4
+    level: 3
   - name: PostgreSQL
-    level: 3
-  - name: MongoDB
-    level: 4
-  - name: SQL Server
     level: 2
+  - name:
+    level
+  - name: SQL Server
+    level: 3
   - name: Oracle
-    level: 3
-  - name: Firebase
-    level: 3
-  - name: NoSQL
+    level: 2
+  - name: Firebird
     level: 4
+  - name: NoSQL
+    level: 1
 
 devops:
-  - name: Docker
-    level: 3
-  - name: Vagrant
-    level: 3
-  - name: Jenkins
-    level: 1
+  - name:
+    level:
+  - name: 
+    level:
+  - name:
+    level:
   - name: Git
-    level: 5
-  - name: Apache Maven
     level: 3
-  - name: Continuous Integration
-    level: 3
-  - name: Continuous Delivery
-    level: 2
+  - name:
+    level:
+  - name:
+    level:
+  - name:
+    level:
 
 methodologies:
   - name: Agile Methodologies
     level: 3
   - name: Scrum
     level: 4
-  - name: RUP
-    level: 3
+  - name: 
+    level:
 
 others:
   - name: Web Services
-    level: 5
-  - name: REST
-    level: 5
-  - name: JEE, JSF, JPA, EJB, CDI
-    level: 3
-  - name: iReport, Jasper Reports
-    level: 2
-  - name: Hibernate
-    level: 3
-  - name: Grails
-    level: 2
-  - name: Symfony
-    level: 3
-  - name: Twig
     level: 4
-  - name: Doctrine ORM
-    level: 3
-  - name: Laravel, Blade, Eloquent ORM
-    level: 5
-  - name: Ruby on Rails
-    level: 3
-  - name: MEAN Stack
+  - name: WebAPI/REST
     level: 4
-  - name: Spring
+  - name: WCF
+    level: 4
+  - name: MVVM
+    level: 4
+  - name: nHibernate
+    level: 4
+  - name: Unit Tests (NUnit, DUnit)
     level: 3
+  - name: Design Patterns
+    level: 3
+  - name: 
+    level:
+  - name:
+    level:
+  - name:
+    level:
+  - name:
+    level:
+  - name:
+    level:
+  - name:
+    level:
 
 # Build settings
 
