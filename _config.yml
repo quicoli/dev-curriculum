@@ -98,7 +98,7 @@ db:
   - name: PostgreSQL
     level: 2
   - name:
-    level
+    level:
   - name: SQL Server
     level: 3
   - name: Oracle
