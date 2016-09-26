@@ -53,7 +53,9 @@ back-end:
     level: 4
   - name: SQL
     level: 4
-
+  - name: Microsoft Azure 
+    level: 2
+    
 mobile:
   - name: Xamarin
     level: 3
@@ -97,6 +99,8 @@ others:
     level: 4
   - name: nHibernate
     level: 4
+  - name: Entity Framework
+    level: 2    
   - name: Unit Tests (NUnit, DUnit)
     level: 3
   - name: Design Patterns
