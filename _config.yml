@@ -8,7 +8,7 @@ language: "" # language to set into html tag, default is en
 
 author: Paulo Quicoli
 author-title: Software Developer/Software Architect
-gravatar: d36a082aacb53b6f76869748fb4b81d4
+gravatar: 497982b14c1c654a225b982fb279f0e9
 email: pauloquicoli@gmail.com
 twitter: pauloquicoli
 github: quicoli
@@ -39,48 +39,20 @@ front-end:
     level: 5
   - name: ASP.NET MVC
     level: 4
-  - name:
-    level:
-  - name:
-    level:
   - name: Angular
     level: 2
-  - name:
-    level:
   - name: Bootstrap
     level: 3
   - name: Materialize CSS
     level: 2
-  - name: 
-    level:
-  - name:
-    level:
-  - name: 
-    level:
-  - name: 
-    level:
-  - name: 
-    level:
-  - name: 
-    level:
 
 back-end:
   - name: C#
     level: 4
   - name: Delphi
     level: 4
-  - name:
-    level:
-  - name: 
-    level:
-  - name: 
-    level:
-  - name:
-    level:
   - name: SQL
     level: 4
-  - name: 
-    level:
 
 mobile:
   - name: Xamarin
@@ -89,16 +61,12 @@ mobile:
     level: 3
   - name: Ionic
     level: 3
-  - name: 
-    level: 
 
 db:
   - name: MySQL
     level: 3
   - name: PostgreSQL
     level: 2
-  - name:
-    level:
   - name: SQL Server
     level: 3
   - name: Oracle
@@ -109,28 +77,14 @@ db:
     level: 1
 
 devops:
-  - name:
-    level:
-  - name: 
-    level:
-  - name:
-    level:
   - name: Git
     level: 3
-  - name:
-    level:
-  - name:
-    level:
-  - name:
-    level:
 
 methodologies:
   - name: Agile Methodologies
     level: 3
   - name: Scrum
     level: 4
-  - name: 
-    level:
 
 others:
   - name: Web Services
@@ -147,18 +101,6 @@ others:
     level: 3
   - name: Design Patterns
     level: 3
-  - name: 
-    level:
-  - name:
-    level:
-  - name:
-    level:
-  - name:
-    level:
-  - name:
-    level:
-  - name:
-    level:
 
 # Build settings
 
